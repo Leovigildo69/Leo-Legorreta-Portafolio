@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+.container-box {
+  width: 524px; /* Ajusta el ancho máximo según tus necesidades */
+  margin: 24px auto;
+}
